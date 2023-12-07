@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './style/index.css';
 import App from './App';
 import Header from './components/Header/Header'
-import Footer from './components/LatestPagesCard/LatestPagesCard'
+import Footer from './components/Footer/Footer'
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from "react-router-dom"
 

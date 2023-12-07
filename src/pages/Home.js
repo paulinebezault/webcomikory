@@ -23,7 +23,7 @@ function Home() {
             <section className="latest-pages">
                 <h2 className="latestPages-title">Latest Pages</h2>
                 <LatestPagesCard />
-                <p className="updateInfo"> New pages every Sun + 1st Thurs of the month ~8pm (ACST)</p>
+                <p className="updateInfo"> New pages every Sun + 1st Thurs of the month ~8pm ACST</p>
                 <MailingListForm />
             </section>
         </main >

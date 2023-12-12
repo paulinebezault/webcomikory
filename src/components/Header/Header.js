@@ -8,7 +8,9 @@ function Header() {
     return (
         <>
             <header>
-                <div id="logo-header"><img src={"/banner_for_kory.png"} alt="banner Lease Bound" /></div>
+                <div id="logo-header">
+                    <img src={"/banner_for_kory.png"} alt="banner Lease Bound" />
+                </div>
             </header>
         </>
     )
